@@ -19,6 +19,7 @@ Personal tracker of @kamranahmedse [Roadmap](https://github.com/kamranahmedse/de
           [Basic site structure](https://www.sitepoint.com/defining-the-sample-sites-page-structure/)
           
           [HTML tag docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+          
 2. Basics of CSS
     - [x] Learn the basics of CSS
         - I've read The CSS3 Anthology 4th Edition
@@ -36,6 +37,7 @@ Personal tracker of @kamranahmedse [Roadmap](https://github.com/kamranahmedse/de
         
     - [] Learn Flexbox
         - Flexbox provides tools to allow rapid creation of complex, flexible layouts, and features that historically proved difficult with CSS
+        
         [CSS Tricks Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
         
         [Flexbox Froggy interactive game](https://flexboxfroggy.com/)
@@ -46,7 +48,9 @@ Personal tracker of @kamranahmedse [Roadmap](https://github.com/kamranahmedse/de
             - Specific characteristics (such as the width of the browser viewport)
             - Environment (such as ambient light conditions)
         - With the huge variety of internet-connected devices available today, media queries are a vital tool for building websites and apps that are robust enough to work on whatever hardware your users have.
+        
         [Media Queries quick reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+        
         [Smashing Magazine - Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
         
 3. Basics of Javascript
